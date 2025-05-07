@@ -1,5 +1,5 @@
-# <span style="color:#1E88E5;">📣 <strong>WhatsApp Bulk Announcement Bot</strong></span>  
-### _by <a href="https://github.com/BaneenZehraAsif" style="color:#1E88E5;">Baneen Zehra Asif</a>_  
+
+# 📣 WhatsApp Bulk Announcement Bot – by Baneen Zehra Asif
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)
