@@ -3,9 +3,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)
-[![Repo Size](https://img.shields.io/github/repo-size/BaneenZehraAsif/whatsapp-bulk-announcement-bot?color=purple)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
-[![Stars](https://img.shields.io/github/stars/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
-[![Forks](https://img.shields.io/github/forks/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
+[![Repo Size](https://img.shields.io/github/repo-size/BaneenZehraAsif/WhatsAppBulkAnnouncementBot?color=purple)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
+[![Stars](https://img.shields.io/github/stars/BaneenZehraAsif/WhatsAppBulkAnnouncementBot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/BaneenZehraAsif/WhatsAppBulkAnnouncementBot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot/network/members)
 
 ---
 
@@ -42,7 +42,7 @@ pip install pywhatkit pandas openpyxl
 ## 🧾 Project Structure
 
 ```
-📂 WhatsApp-Bulk-Announcement-Bot/
+📂 WhatsAppBulkAnnouncementBot/
 ├── contacts.xlsx                      # 📇 Contact list
 ├── send_bulk_whatsapp.py             # 🧠 Main script
 ├── requirements.txt                  # 📜 Dependencies
@@ -57,8 +57,8 @@ pip install pywhatkit pandas openpyxl
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/BaneenZehraAsif/whatsapp-bulk-announcement-bot.git
-cd whatsapp-bulk-announcement-bot
+git clone https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot.git
+cd WhatsAppBulkAnnouncementBot
 ```
 
 ### 2️⃣ Prepare the Excel File
