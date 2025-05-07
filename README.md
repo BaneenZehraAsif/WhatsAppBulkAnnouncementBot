@@ -3,9 +3,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)
-[![Repo Size](https://img.shields.io/github/repo-size/BaneenZehraAsif/whatsapp-bulk-announcement-bot?color=purple)](https://github.com/BaneenZehraAsif/whatsapp-bulk-announcement-bot)
-[![Stars](https://img.shields.io/github/stars/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/whatsapp-bulk-announcement-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/whatsapp-bulk-announcement-bot/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/BaneenZehraAsif/whatsapp-bulk-announcement-bot?color=purple)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
+[![Stars](https://img.shields.io/github/stars/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
+[![Forks](https://img.shields.io/github/forks/BaneenZehraAsif/whatsapp-bulk-announcement-bot?style=social)](https://github.com/BaneenZehraAsif/WhatsAppBulkAnnouncementBot)
 
 ---
 
@@ -127,5 +127,4 @@ See the [LICENSE](LICENSE) file for full details.
 **Baneen Zehra Asif**
 🔗 [GitHub Profile](https://github.com/BaneenZehraAsif)
 
-```
 
